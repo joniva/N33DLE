@@ -1,2 +1,21 @@
 # N33DLE
-Open-source CS:GO dll injector.
+AGTP is an automatic geomteric theorem prover...
+
+## Dependencies
+```
+pymem
+...
+```
+## Installation
+```
+git clone ...
+```
+
+
+
+
+### TODO:
+- [ ] Refine functions
+- [ ] Make more descriptive variables
+- [ ] Create an open-source environment 
+- [ ] Create an appealing GUI
