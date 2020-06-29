@@ -11,7 +11,7 @@ pymem
 git clone (repo)
 ...
 ```
-## Compile executable installer
+## Compile executable installer (.exe)
 ```
 py -m pip install pyinstaller
 ...
