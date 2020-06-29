@@ -6,12 +6,16 @@ N33DLE is an open-source CS:GO dll injector.
 pymem
 ...
 ```
-## Installation
+## Build from source code
 ```
-git clone ...
+git clone (repo)
+...
 ```
-
-
+## Compile executable installer
+```
+py -m pip install pyinstaller
+...
+```
 
 
 ### TODO:
