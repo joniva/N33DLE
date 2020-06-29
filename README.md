@@ -1,5 +1,5 @@
 # N33DLE
-AGTP is an automatic geomteric theorem prover...
+N33DLE is an open-source CS:GO dll injector.
 
 ## Dependencies
 ```
